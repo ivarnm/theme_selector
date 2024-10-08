@@ -1,9 +1,9 @@
 # CSS Theme Selector with Automatic Mode
 Example app of a theme selector in Svelte. It includes an automatic theme that adapts to the user's device settings.
 
-Tutorial can be found here: TODO
+Tutorial can be found here: https://dev.to/ivarnm/css-theme-selector-with-automatic-mode-tutorial-3i2n
 
-Live demo: TODO
+Live demo: https://theme-selector-inm.vercel.app/
 
 ## Developing
 
